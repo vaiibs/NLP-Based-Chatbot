@@ -1,0 +1,7 @@
+numpy
+random
+json
+pickle
+scikit-learn
+colorama
+tensorflow
