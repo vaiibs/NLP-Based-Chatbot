@@ -1,5 +1,7 @@
 # NLP-Based-Chatbot
 
+![image](https://github.com/user-attachments/assets/92ba66a0-2b44-4bcc-8d33-bc1efae75901)
+
 This repository contains the implementation of a chatbot using a neural network for intent classification. The chatbot is trained to understand user queries and respond appropriately based on predefined intents and patterns.
 
 How It Works
