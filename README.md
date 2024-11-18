@@ -5,15 +5,10 @@ This repository contains the implementation of a chatbot using a neural network 
 How It Works
 
 User Input: Accepts user text queries.
-
 Text Preprocessing: Tokenizes and vectorizes the input text.
-    
 Intent Prediction: A trained neural network predicts the user's intent.
-    
 Response Selection: Matches the predicted intent with responses in intents.json.
-    
 Response Output: Provides a suitable reply to the user.
-
 
 NLP Pipeline for Chatbot:
 
